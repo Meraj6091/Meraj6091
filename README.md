@@ -1,6 +1,6 @@
 
-- 🔭 I’m currently Studying As An Undergraduate
-- 🌱 I’m currently learning MERN Stack Application
+- Currently Studying As An Undergraduate
+- Currently learning MERN Stack Applications
 - 📫 How to reach me: <a href="https://www.instagram.com/menjaa__/ ">@Instagram</a> | <a href="https://www.linkedin.com/in/meraj-vindira-169193197/">@Linkedin</a> | <a href="https://www.facebook.com/Meraj.Vindira/">@Facebook</a>
 
 Languages and Tools &nbsp;
