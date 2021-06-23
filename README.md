@@ -1,6 +1,6 @@
 
 - Software Engineering Undergraduate 
-- Currently learning React JS
+- Currently learning React JS | JS ES6 | Node JS
 - How to reach me:  <a href="https://www.linkedin.com/in/meraj-vindira-169193197/">@Linkedin</a> 
 
 Languages and Tools &nbsp;
