@@ -1,6 +1,6 @@
 
-- Currently Studying As An Undergraduate
-- Currently learning MERN Stack Applications
+- Software Engineering Undergraduate 
+- Currently learning React JS
 - How to reach me:  <a href="https://www.linkedin.com/in/meraj-vindira-169193197/">@Linkedin</a> 
 
 Languages and Tools &nbsp;
