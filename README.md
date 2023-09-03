@@ -1,5 +1,5 @@
 <div style="margin-top:-30px">
-<h1 align="center">Hi, I'm Meraj Pathiranage </h1>
+<h1 align="center">Hi, I'm Meraj Vindira </h1>
 </div>
 
 <p align="center">
