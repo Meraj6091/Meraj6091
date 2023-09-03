@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="reactjs"/> 
   </a>
-    <a href="https://reactjs.org/" target="_blank"> 
+    <a href="https://reactnative.dev/" target="_blank"> 
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
       alt="reactnative"/> 
   </a>
@@ -29,7 +29,7 @@
       alt="java"/> 
   </a>
 
-   <a href="https://spring/en/" target="_blank"> 
+   <a href="https://spring.io/projects/spring-boot" target="_blank"> 
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"
       alt="spring"/> 
   </a>
