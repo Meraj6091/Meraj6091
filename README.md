@@ -39,6 +39,6 @@
 </p>
 
 <br/>
--  <a href="https://medium.com/@merajvindira2000" target="_blank">Medium.</a>
+- Read my posts. <a href="https://medium.com/@merajvindira2000" target="_blank">Medium.</a>
 <br/>
--  <a href="https://gitlab.com/Meraj6091" target="_blank">GitLab.</a>
+- Follow me. <a href="https://gitlab.com/Meraj6091" target="_blank">GitLab.</a>
